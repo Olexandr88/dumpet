@@ -8,9 +8,11 @@ Built with [Arweave](https://github.com/ArweaveTeam), [AO](https://github.com/pe
 -
 
 ## Socials
-https://x.com/dumpetdotfun
+- [X/Twitter](https://x.com/dumpetdotfun)
 
-https://t.me/dumpetdotfun
+- [Telegram](https://t.me/dumpetdotfun)
+  
+- [Discord](https://discord.com/invite/bWU5e3cVuW)
 
 ## Main Process ID
 jIRuxblllcBIDUmYbrbbEI90nJs40duNA6wR6NkYVvI
